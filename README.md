@@ -1,6 +1,6 @@
-# Ilyasyoy Monochrome
+# Monochrome
 
-Monochrome Omarchy theme based on Solitude and `ilyasyoy-monochrome.nvim`.
+Monochrome Omarchy theme based on [Solitude](github.com/HANCORE-linux/omarchy-solitude-theme) and [ilyasyoy's colorscheme](github.com/IlyasYOY/dotfiles/blob/master/config/nvim/colors/ilyasyoy-monochrome.lua).
 
 Palette: black base, bright gray text, visual orange accent.
 
