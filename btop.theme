@@ -8,13 +8,13 @@ theme[main_fg]="#dadada"
 theme[title]="#dadada"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#ffaf00"
+theme[hi_fg]="#d70000"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#1c1c1c"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#ffaf00"
+theme[selected_fg]="#d70000"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#707070"
@@ -32,12 +32,12 @@ theme[div_line]="#303030"
 # Gradient for all meters and graphs
 theme[temp_start]="#707070"
 theme[temp_mid]="#dadada"
-theme[temp_end]="#ffaf00"
+theme[temp_end]="#d70000"
 
 
 theme[cpu_start]="#707070"
 theme[cpu_mid]="#dadada"
-theme[cpu_end]="#ffaf00"
+theme[cpu_end]="#d70000"
 
 
 theme[free_start]="#303030"
@@ -52,19 +52,19 @@ theme[cached_end]="#dadada"
 
 theme[available_start]="#707070"
 theme[available_mid]="#dadada"
-theme[available_end]="#ffaf00"
+theme[available_end]="#d70000"
 
 
 theme[used_start]="#707070"
 theme[used_mid]="#dadada"
-theme[used_end]="#ffaf00"
+theme[used_end]="#d70000"
 
 
 theme[download_start]="#303030"
 theme[download_mid]="#dadada"
-theme[download_end]="#ffaf00"
+theme[download_end]="#d70000"
 
 
 theme[upload_start]="#303030"
 theme[upload_mid]="#dadada"
-theme[upload_end]="#ffaf00"
+theme[upload_end]="#d70000"

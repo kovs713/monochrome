@@ -1,13 +1,13 @@
 :root {
   /* The main accent color and the matching text value */
-  --adw-accent-bg-rgb: 255, 175, 0 !important;
+  --adw-accent-bg-rgb: 215, 0, 0 !important;
   --adw-accent-fg-rgb: 0, 0, 0 !important;
-  --adw-accent-rgb: 255, 175, 0 !important;
+  --adw-accent-rgb: 215, 0, 0 !important;
 
   /* destructive-action buttons */
-  --adw-destructive-bg-rgb: 255, 175, 0 !important;
+  --adw-destructive-bg-rgb: 215, 0, 0 !important;
   --adw-destructive-fg-rgb: 0, 0, 0 !important;
-  --adw-destructive-rgb: 255, 175, 0 !important;
+  --adw-destructive-rgb: 215, 0, 0 !important;
 
   /* Levelbars, entries, labels and infobars. These don't need text colors */
   --adw-success-bg-rgb: 112, 112, 112 !important;
@@ -19,9 +19,9 @@
   --adw-warning-fg-a: 0.8 !important;
   --adw-warning-rgb: 218, 218, 218 !important;
 
-  --adw-error-bg-rgb: 255, 175, 0 !important;
+  --adw-error-bg-rgb: 215, 0, 0 !important;
   --adw-error-fg-rgb: 0, 0, 0 !important;
-  --adw-error-rgb: 255, 175, 0 !important;
+  --adw-error-rgb: 215, 0, 0 !important;
 
   /* Window */
   --adw-window-bg-rgb: 0, 0, 0 !important;
