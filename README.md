@@ -1,10 +1,11 @@
 # Monochrome
 
-Monochrome Omarchy theme based on [Solitude](https://github.com/HANCORE-linux/omarchy-solitude-theme) and [ilyasyoy's colorscheme](https://github.com/IlyasYOY/dotfiles/blob/master/config/nvim/colors/ilyasyoy-monochrome.lua).
+Monochrome Omarchy theme based on Solitude and `colors/monochrome.lua` of my
+nvim config.
 
-Palette: black base, bright gray text, visual orange accent.
+Palette: black base, bright gray text, visual red accent.
 
 ```bash
 omarchy theme install https://github.com/kovs713/monochrome.git
-omarchy theme set "Ilyasyoy Monochrome"
+omarchy theme set "Monochrome"
 ```
